@@ -26,17 +26,17 @@ I'm a **Backend Developer** and B.Tech Computer Science student specializing in 
 
 I value code that is **understandable, tested, safe to deploy, and easy to maintain**.
 
-## Open-source & organization contributions
+## 💼 Engineering Experience
 
-I'm contributing to **TheoremReach's production codebase**, including Rails application work and backend infrastructure for a support-ticket triage system.
+Working on production backend systems, with experience in:
 
-| Pull request | What it covers | Status |
-|---|---|---|
-| [TheoremReach #5184 — Inbound email signature](https://github.com/TheoremReach/TheoremReach/pull/5184) | SendGrid signature verification, sender-authentication evidence, safer parsing, and request-level tests | 🟡 Open · Draft |
-| [tr_util #200 — AI support triage Phase 2](https://github.com/TheoremReach/tr_util/pull/200) | Email safety guardrails, environment-aware credentials, assistant access controls, kill switches, and category-level automation policy | 🟡 Open |
-| [tr_util #197 — Ruby 3.3.12 upgrade](https://github.com/TheoremReach/tr_util/pull/197) | Ruby runtime upgrade, dependency/config cleanup, and validation across boot, tests, Webpacker, and background jobs | ✅ Merged |
+- Backend application development and maintenance
+- Runtime upgrades and dependency management
+- API security and application reliability
+- Automated testing and deployment validation
+- Designing safety controls for AI-powered workflows
 
-<sub>These links are the best way to review the actual changes and discussions. Open PRs are labelled as open, not presented as merged work.</sub>
+*Details of proprietary projects and internal codebases are not publicly disclosed.*
 
 ## Selected projects
 
