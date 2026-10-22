@@ -1,198 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SAKSHAM%20GIRI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090b,35:312e81,70:0e7490,100:09090b&text=SAKSHAM%20GIRI&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineering%20%7C%20AI%20Systems%20%7C%20Open%20Source&descSize=16&descAlignY=58" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+Python+%7C+Node.js;AI%2FML+%7C+Generative+AI+%7C+RAG;Building+scalable+APIs+%26+intelligent+systems;Turning+ideas+into+real-world+projects" />
+<a href="https://github.com/saksham-giri"><img src="https://img.shields.io/badge/GitHub-saksham--giri-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/saksham-giri?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0e7490?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 
 <br/>
 
-<a href="https://github.com/saksham-giri">
-<img src="https://komarev.com/ghpvc/?username=saksham-giri&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-</a>
-<a href="https://github.com/saksham-giri?tab=followers">
-<img src="https://img.shields.io/github/followers/saksham-giri?label=FOLLOWERS&style=for-the-badge&color=blue" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=67E8F9&center=true&vCenter=true&width=800&lines=Building+reliable+backend+systems.;Turning+complex+workflows+into+maintainable+software.;Exploring+practical+AI%2C+RAG+and+automation.;Contribute.+Test.+Ship.+Improve.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## About
 
-🎓 **B.Tech CSE — Artificial Intelligence & Machine Learning**
+I'm a **Backend Developer** and B.Tech Computer Science student specializing in **AI/ML**. I enjoy working on production-minded backend engineering: API design, application reliability, integrations, data flows, and automated tests — alongside AI-powered applications.
 
-💻 **Backend Developer** experienced with **Python, Node.js, Express.js, Django, REST APIs, MongoDB & Mongoose**
+- ⚙️ **Backend:** Python, Node.js, Express, Django, Ruby on Rails, REST APIs
+- 🗄️ **Data:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
+- 🤖 **AI:** Machine Learning, Deep Learning, RAG, embeddings, vector search
+- 🧪 **Engineering:** Git, RSpec, pytest, API testing, debugging, CI-minded workflows
+- 🏀 **Away from the keyboard:** Basketball
 
-🤖 **AI/ML Enthusiast** working with **Machine Learning, Deep Learning, Generative AI, RAG & Vector Search**
+I value code that is **understandable, tested, safe to deploy, and easy to maintain**.
 
-🧠 Strong foundation in **DSA, OOP, DBMS, Operating Systems & Computer Networks**
+## Open-source & organization contributions
 
-🚀 I enjoy building backend systems, AI-powered applications and turning ideas into working products.
+I'm contributing to **TheoremReach's production codebase**, including Rails application work and backend infrastructure for a support-ticket triage system.
 
-🏀 Outside tech: **Basketball**
+| Pull request | What it covers | Status |
+|---|---|---|
+| [TheoremReach #5184 — Inbound email signature](https://github.com/TheoremReach/TheoremReach/pull/5184) | SendGrid signature verification, sender-authentication evidence, safer parsing, and request-level tests | 🟡 Open · Draft |
+| [tr_util #200 — AI support triage Phase 2](https://github.com/TheoremReach/tr_util/pull/200) | Email safety guardrails, environment-aware credentials, assistant access controls, kill switches, and category-level automation policy | 🟡 Open |
+| [tr_util #197 — Ruby 3.3.12 upgrade](https://github.com/TheoremReach/tr_util/pull/197) | Ruby runtime upgrade, dependency/config cleanup, and validation across boot, tests, Webpacker, and background jobs | ✅ Merged |
 
----
+<sub>These links are the best way to review the actual changes and discussions. Open PRs are labelled as open, not presented as merged work.</sub>
 
-## 🧰 Tech Arsenal
-
-<div align="center">
-
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
-
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql" />
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## Selected projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ♻️ ScrapiFy
+### ♻️ [ScrapiFy](https://github.com/saksham-giri/Scrapify)
+A Django platform connecting scrap sellers and buyers.
 
-A Django-based platform connecting **scrap sellers with scrap buyers**.
-
-**Python • Django • SQLite • MVT**
+**Python · Django · SQLite · MVT**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 RAG-DOC
+### 🤖 [RAG-DOC](https://github.com/saksham-giri/RAG-DOC)
+Ask questions over documents using retrieval-augmented generation.
 
-AI-powered **document question-answering** using Retrieval-Augmented Generation.
-
-**Python • LangChain • ChromaDB • FAISS • Ollama • Groq**
+**LangChain · ChromaDB · FAISS · Ollama · Groq**
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🫁 Pneumonia Detection
+CNN-based classification of chest X-ray images, served through a Flask app.
 
-CNN-based system for detecting **pneumonia from chest X-rays**.
-
-**Python • TensorFlow • Keras • Flask**
+**Python · TensorFlow · Keras · Flask**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏥 DocAppoint
+Doctor appointment management application with a Node.js backend.
 
-Backend-driven **doctor appointment management** application.
-
-**Node.js • Express.js • MongoDB • JavaScript**
+**Node.js · Express · MongoDB**
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Finance Manager
+### 💰 Personal Finance Manager
+A Python app for tracking and visualizing personal finances.
 
-Python application for **personal finance management and visualization**.
-
-**Python • Pandas • NumPy • Matplotlib**
+**Python · Pandas · NumPy · Matplotlib**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 Laptop Price Predictor
+### 🔎 Product Intelligence / Reverse Search
+Image embeddings and vector similarity search for finding visually similar products.
 
-Machine learning model for **laptop price prediction** based on product features.
-
-**Python • Machine Learning**
+**Python · CLIP · Embeddings · Vector Search**
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧠 Currently Exploring
+## Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,python,pytorch,tensorflow" />
-
-<br/><br/>
-
-**Backend Architecture** • **REST APIs** • **Authentication** • **System Design**  
-**Machine Learning** • **Deep Learning** • **Generative AI** • **RAG** • **Vector Databases**
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,ruby,nodejs,express,django,flask,rails,postgres,mysql,mongodb,redis,tensorflow,pytorch,docker,git,github,linux,vscode" />
 
 </div>
 
----
-
-## 📊 GitHub Analytics
+## GitHub activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saksham-giri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-giri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-giri&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-giri&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saksham-giri/saksham-giri/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/saksham-giri">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saksham-giri&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-giri&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 
 <br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-giri&theme=transparent&hide_border=true" />
+
+</div>
+
+## Find me
+
+- GitHub: [@saksham-giri](https://github.com/saksham-giri)
+- Contributions: [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Asaksham-giri)
+- Projects: [Repositories](https://github.com/saksham-giri?tab=repositories)
+
 <div align="center">
 
-### <code>BUILD → BREAK → DEBUG → LEARN → REPEAT</code>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+**BUILD → TEST → SHIP → LEARN → REPEAT**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09090b,50:312e81,100:0e7490" width="100%" />
 
 </div>
