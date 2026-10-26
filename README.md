@@ -31,11 +31,13 @@ I care about readable code, sensible trade-offs, testing, and shipping changes c
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [NotebookLM Lite](https://github.com/saksham-giri/notebooklm-lite)
+### 📬 [ReachInbox Email Scheduler](https://github.com/saksham-giri/saksham-giri-reachinbox-email-scheduler)
 
-Upload PDFs and ask questions grounded in their contents using retrieval-augmented generation.
+A production-deployed email scheduling platform with delayed jobs, persistent queues, rate limits, searchable email history, Google OAuth, and Slack notifications.
 
-**Stack:** Python · Streamlit · LangChain · Groq · Hugging Face · FAISS · PyPDF
+**Stack:** TypeScript · Node.js · Express · React · PostgreSQL · Redis · BullMQ · Elasticsearch · Docker
+
+[Live app](https://reachinbox-saksham.duckdns.org) · [Demo video](https://drive.google.com/file/d/1-98ZfcOqxpdcuTnIJpCc10dfSIyOZVH-/view?usp=sharing)
 
 </td>
 <td width="50%" valign="top">
@@ -45,6 +47,26 @@ Upload PDFs and ask questions grounded in their contents using retrieval-augment
 A doctor appointment management platform with patient, doctor, and admin workflows.
 
 **Stack:** Node.js · Express · MongoDB · React · JWT · Razorpay
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [NotebookLM Lite](https://github.com/saksham-giri/notebooklm-lite)
+
+Upload PDFs and ask questions grounded in their contents using retrieval-augmented generation.
+
+**Stack:** Python · Streamlit · LangChain · Groq · Hugging Face · FAISS · PyPDF
+
+</td>
+<td width="50%" valign="top">
+
+### ♻️ [ScrapiFy](https://github.com/saksham-giri/ScrapiFy)
+
+A Django platform designed to connect scrap sellers with buyers.
+
+**Stack:** Python · Django · SQLite · MVT
 
 </td>
 </tr>
