@@ -1,135 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090b,35:312e81,70:0e7490,100:09090b&text=SAKSHAM%20GIRI&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineering%20%7C%20AI%20Systems%20%7C%20Open%20Source&descSize=16&descAlignY=58" width="100%" />
+# Saksham Giri
+### Backend Developer · AI/ML Engineer
 
-<a href="https://github.com/saksham-giri"><img src="https://img.shields.io/badge/GitHub-saksham--giri-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://github.com/saksham-giri?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0e7490?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+Building backend systems, useful developer tools, and practical AI applications.
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=67E8F9&center=true&vCenter=true&width=800&lines=Building+reliable+backend+systems.;Turning+complex+workflows+into+maintainable+software.;Exploring+practical+AI%2C+RAG+and+automation.;Contribute.+Test.+Ship.+Improve.)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-saksham--giri-181717?style=flat-square&logo=github)](https://github.com/saksham-giri)
+[![Repositories](https://img.shields.io/badge/Explore-Projects-2563eb?style=flat-square&logo=github)](https://github.com/saksham-giri?tab=repositories)
+[![Pull Requests](https://img.shields.io/badge/Open%20Source-My%20PRs-16a34a?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Asaksham-giri)
 
 </div>
 
 ---
 
-## About
+## About me
 
-I'm a **Backend Developer** and B.Tech Computer Science student specializing in **AI/ML**. I enjoy working on production-minded backend engineering: API design, application reliability, integrations, data flows, and automated tests — alongside AI-powered applications.
+I'm a B.Tech Computer Science student specializing in AI/ML, with a strong interest in **backend engineering, APIs, databases, and applied AI**. I enjoy figuring out how systems work, debugging real issues, and building software that is practical to use and maintain.
 
-- ⚙️ **Backend:** Python, Node.js, Express, Django, Ruby on Rails, REST APIs
-- 🗄️ **Data:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
-- 🤖 **AI:** Machine Learning, Deep Learning, RAG, embeddings, vector search
-- 🧪 **Engineering:** Git, RSpec, pytest, API testing, debugging, CI-minded workflows
-- 🏀 **Away from the keyboard:** Basketball
+- **Backend:** Python, Node.js, Express, Django, Ruby on Rails, REST APIs
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite, Redis
+- **AI/ML:** Python, TensorFlow/Keras, embeddings, RAG, vector search
+- **Tools:** Git, GitHub, Linux, Docker, pytest, RSpec
+- **Outside code:** Basketball 🏀
 
-I value code that is **understandable, tested, safe to deploy, and easy to maintain**.
+I care about readable code, sensible trade-offs, testing, and shipping changes carefully.
 
-## 💼 Engineering Experience
-
-Working on production backend systems, with experience in:
-
-- Backend application development and maintenance
-- Runtime upgrades and dependency management
-- API security and application reliability
-- Automated testing and deployment validation
-- Designing safety controls for AI-powered workflows
-
-*Details of proprietary projects and internal codebases are not publicly disclosed.*
-
-## Selected projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ♻️ [ScrapiFy](https://github.com/saksham-giri/Scrapify)
-A Django platform connecting scrap sellers and buyers.
+### 📚 [NotebookLM Lite](https://github.com/saksham-giri/notebooklm-lite)
 
-**Python · Django · SQLite · MVT**
+Upload PDFs and ask questions grounded in their contents using retrieval-augmented generation.
 
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [RAG-DOC](https://github.com/saksham-giri/RAG-DOC)
-Ask questions over documents using retrieval-augmented generation.
-
-**LangChain · ChromaDB · FAISS · Ollama · Groq**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🫁 Pneumonia Detection
-CNN-based classification of chest X-ray images, served through a Flask app.
-
-**Python · TensorFlow · Keras · Flask**
+**Stack:** Python · Streamlit · LangChain · Groq · Hugging Face · FAISS · PyPDF
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 DocAppoint
-Doctor appointment management application with a Node.js backend.
+### 🩺 [DocAppoint](https://github.com/saksham-giri/DocAppoint)
 
-**Node.js · Express · MongoDB**
+A doctor appointment management platform with patient, doctor, and admin workflows.
+
+**Stack:** Node.js · Express · MongoDB · React · JWT · Razorpay
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 Personal Finance Manager
-A Python app for tracking and visualizing personal finances.
+### ♻️ [ScrapiFy](https://github.com/saksham-giri/ScrapiFy)
 
-**Python · Pandas · NumPy · Matplotlib**
+A Django platform designed to connect scrap sellers with buyers.
+
+**Stack:** Python · Django · SQLite · MVT
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 Product Intelligence / Reverse Search
-Image embeddings and vector similarity search for finding visually similar products.
+### 🛡️ [Proctor AI](https://github.com/saksham-giri/Proctor-AI)
 
-**Python · CLIP · Embeddings · Vector Search**
+An AI-focused proctoring project exploring tools for online assessment workflows.
+
+**Stack:** See repository for implementation details.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🫁 [Pneumonia Detection](https://github.com/saksham-giri/Pneumonia-detection)
+
+A CNN-based chest X-ray classification project with a Flask interface.
+
+**Stack:** Python · TensorFlow · Keras · Flask
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 [Laptop Price Predictor](https://github.com/saksham-giri/Laptop-price-predictor)
+
+A machine-learning project for estimating laptop prices from product features.
+
+**Stack:** Python · Machine Learning
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [Finance Manager](https://github.com/saksham-giri/Finance-Manager)
+
+A Python project for managing and visualizing personal finance data.
+
+**Stack:** Python · Pandas · NumPy · Matplotlib
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [RAG-DOC](https://github.com/saksham-giri/RAG-DOC)
+
+An additional document-question-answering project using retrieval and vector search.
+
+**Stack:** Python · LangChain · ChromaDB · FAISS · Ollama · Groq
 
 </td>
 </tr>
 </table>
 
-## Tech stack
+## Technologies
+
+**Languages**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+
+**Backend & data**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI/ML & tools**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Open source & activity
+
+- [Browse my repositories](https://github.com/saksham-giri?tab=repositories)
+- [Pull requests I've authored](https://github.com/pulls?q=is%3Apr+author%3Asaksham-giri)
+- [Issues I've opened](https://github.com/issues?q=is%3Aissue+author%3Asaksham-giri)
+
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,ruby,nodejs,express,django,flask,rails,postgres,mysql,mongodb,redis,tensorflow,pytorch,docker,git,github,linux,vscode" />
-
-</div>
-
-## GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saksham-giri&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-giri&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-giri&theme=transparent&hide_border=true" />
-
-</div>
-
-## Find me
-
-- GitHub: [@saksham-giri](https://github.com/saksham-giri)
-- Contributions: [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Asaksham-giri)
-- Projects: [Repositories](https://github.com/saksham-giri?tab=repositories)
-
-<div align="center">
-
-<br/>
-
-**BUILD → TEST → SHIP → LEARN → REPEAT**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09090b,50:312e81,100:0e7490" width="100%" />
+**Build thoughtfully. Test properly. Keep improving.**
 
 </div>
